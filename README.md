@@ -1,9 +1,7 @@
 # Assignment 1 
 
 Name: LIU XINGYI
-
 Matriculation ID: G2505354D
-
 Email: LIUX0181@e.ntu.edu.sg
 
 ## Audio summary
@@ -14,7 +12,7 @@ MP3 link: https://drive.google.com/file/d/1d33yCVQZC2grUCqtqbijuTIkyVaJX2Vj/view
 
 **HSBC PEP Screening: US vs UK**
 
-This submission designs a jurisdiction-aware AML/KYC PEP screening prototype for HSBC. The project compares how PEP screening logic may differ between the United States and the United Kingdom.
+I worked on HSBC PEP Screening: US vs UK. The main idea is to show how a PEP screening tool could apply different AML/KYC logic in the United States and the United Kingdom, instead of using one global rule for every case.
 
 ## Files
 
@@ -44,7 +42,7 @@ This submission designs a jurisdiction-aware AML/KYC PEP screening prototype for
 
 ## Running the prototype
 
-Run:
+From the project folder, run:
 
 ```bash
 python Task3_tool.py
