@@ -1,0 +1,11 @@
+customer_id,customer_name,country_of_residence,occupation,pep_category,relationship_to_pep,adverse_media_score,sanctions_match_score,monthly_transaction_volume_usd,source_of_funds_risk,name_match_confidence
+C001,Alex Morgan,United States,City council member,domestic_pep,none,5,0,12000,low,92
+C002,Nadia Rahman,United Kingdom,Member of Parliament,domestic_pep,none,12,0,18000,low,95
+C003,Viktor Sokolov,United Kingdom,Former energy minister,foreign_pep,none,72,18,240000,high,96
+C004,Lina Chen,United States,Import business owner,none,close_associate,35,0,85000,medium,78
+C005,Omar Haddad,United Kingdom,Real estate investor,foreign_pep,family,48,8,160000,medium,88
+C006,Emily Carter,United States,Teacher,none,none,3,0,4200,low,70
+C007,Samuel Okafor,United Kingdom,Ambassador,foreign_pep,none,20,0,62000,medium,93
+C008,Mei Tan,United States,Charity director,international_org_pep,none,15,0,30000,low,91
+C009,Karim Al Nasser,United Kingdom,Construction executive,none,close_associate,65,12,210000,high,82
+C010,Sofia Alvarez,United States,Former mayor,domestic_pep,none,28,0,45000,medium,89
