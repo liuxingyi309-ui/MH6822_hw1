@@ -1,7 +1,9 @@
 # Assignment 1 
 
 Name: LIU XINGYI
+
 Matriculation ID: G2505354D
+
 Email: LIUX0181@e.ntu.edu.sg
 
 ## Audio summary
